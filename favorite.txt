@@ -1,4 +1,10 @@
+--Favorite Foods--
 Chickin
 Pizza
 Pasta
 Coke
+
+--Favorite Movies--
+트랜스포머
+어밴저스
+아이언맨
